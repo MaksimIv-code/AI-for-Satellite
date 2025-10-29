@@ -14,3 +14,7 @@ using a ResNet-18 backbone with custom head for multi-class land cover segmentat
 - Scikit-learn - accuracy metrics
 - Folium, Rasterio - geospatial visualization
 - NumPy, PIL - image I/O and preprocessing
+
+
+P.S.
+  As a data source I used EuroSAT, but I didn't attach folder with training data due to the file number.
