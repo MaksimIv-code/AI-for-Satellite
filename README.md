@@ -17,4 +17,4 @@ using a ResNet-18 backbone with custom head for multi-class land cover segmentat
 
 
 P.S.
-  As a data source I used EuroSAT, but I didn't attach folder with training data due to the file number.
+  As a data source, I used EuroSAT, but I didn't attach the folder with training data due to the large number of files.
